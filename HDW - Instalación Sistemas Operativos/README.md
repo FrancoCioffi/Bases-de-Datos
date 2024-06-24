@@ -1,6 +1,7 @@
 # Trabajo Práctico Nro 6: Instalación de Sistemas Operativos y Administradores de Archivos
 1.- Investigue la instalación de sistemas operativos en Modo UEFI teniendo en cuenta todos los pasos del proceso. Desde la preparación del medio hasta el manejo de las claves de seguridad (Secure Boot)
-"""Preparación del Medio de Instalación:
+```
+    Preparación del Medio de Instalación:
     Obtener la imagen ISO del sistema operativo que se quiere instalar, para luego crear el medio de instalacion utilizando     
     herramientos como Rufus, UNetbootin si se usara USB o grabar la imagen ISO en un DVD usando ImgBurn.
     Configuración de BIOS/UEFI:
@@ -14,7 +15,7 @@
     Configuración de Particiones:
     Crea las particiones necesarias para el sistema operativo y otros datos, después de la instalación del sistema operativo,     
     puedes volver a habilitar Secure Boot si lo habías desactivado.
-"""
+``` 
 2.- Investigue los requisitos de instalación mínimos y recomendados para la instalación de sistemas operativos actuales en sus 
 últimas versiones. Investigue también las versiones corporativas tipo Windows Server Editions. Investigue las capacidades máximas 
 de administración tanto de memoria, disco y procesador de cada uno. Investigue los costos de las licencias.
