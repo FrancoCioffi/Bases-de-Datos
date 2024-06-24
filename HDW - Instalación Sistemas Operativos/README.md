@@ -130,14 +130,34 @@ de administración tanto de memoria, disco y procesador de cada uno. Investigue 
     Un potente editor de particiones de código abierto y gratuito para sistemas operativos basados en Linux. Ofrece funciones          avanzadas como la creación y eliminación de particiones, el formateo, la copia y el pegado de particiones, y la comprobación y     reparación de errores de disco. Sin embargo, su interfaz puede ser menos intuitiva para usuarios principiantes.
 ``` 
 5.- Investigue gestores de arranque para elegir Sistemas Operativos múltiples en un equipo. Que trabajen en modo MBR o UEFI o ambos. Haga una comparativa.
-```    
+```
+    1. GRUB (GRand Unified Bootloader):
+    Compatibilidad: MBR, UEFI
+    Características: Potente, personalizable, compatible con una amplia gama de sistemas operativos, gestor de arranque por 
+    defecto en muchas distribuciones de Linux.
+    Ventajas: Altamente configurable, opciones avanzadas para la gestión de particiones, soporte para múltiples idiomas.
+    Desventajas: Curva de aprendizaje más pronunciada para usuarios principiantes, puede ser complejo para configuraciones no     
+    estándar.
+
+    2. rEFInd (reborn EFI bootloader):
+    Compatibilidad: MBR, UEFI (recomendado)
+    Características: Interfaz gráfica intuitiva, fácil de usar, compatible con una amplia gama de sistemas operativos, menú de 
+    arranque personalizable.
+    Ventajas: Interfaz amigable, ideal para usuarios principiantes, menú de arranque personalizable con temas e íconos.
+    Desventajas: Menos opciones avanzadas de configuración en comparación con GRUB, puede no ser compatible con sistemas 
+    operativos antiguos o poco comunes.
+
+    3. EasyUEFI:
+    Compatibilidad: MBR, UEFI
+    Características: Interfaz gráfica fácil de usar, clonación de discos, gestión de particiones, opciones de arranque avanzadas.
+    Ventajas: Interfaz intuitiva, ideal para usuarios principiantes, herramientas integradas para la gestión de discos y 
+    particiones.
+    Desventajas: Menos personalizable que otros gestores de arranque, funciones avanzadas pueden requerir la versión de pago.
 | Gestor de arranque | Compatibilidad | Caracteristicas                 | Ventajas                                    | Desventajas              |
 |--------------------|----------------|---------------------------------|---------------------------------------------|--------------------------|
 | GRUB               | MBR, UEFI      | Potente, personalizable         | Amplia compatibilidad, opciones avanzadas   | Curva de aprendizaje     |
 | rEFInd             | MBR, UEFI      | Interfaz grafica intuitiva      | Facil de usar, menu personalizable          | Menos opciones avanzadas |
 | EasyUEFI           | MBR, UEFI      | Interfaz grafica facil  de usar | Intefaz  intuitiva, herramientas integradas | Menos personizable       |
-| Clover EFI
-Bootloader           | UEFI           | Optimizado UEFI,soporte macOS   | Soporte completo para macOS, menú personalizable  | No compatible con MBR   |
 ``` 
 6.- Haga una lista comparativa de al menos 10 administradores de archivos. Pueden ser de diferentes plataformas. Compare 
 funcionalidades y capacidades de expansión. Clasifíquelos luego por categoría con una descripción de cada una.
