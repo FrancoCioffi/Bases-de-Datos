@@ -162,5 +162,61 @@ de administración tanto de memoria, disco y procesador de cada uno. Investigue 
 6.- Haga una lista comparativa de al menos 10 administradores de archivos. Pueden ser de diferentes plataformas. Compare 
 funcionalidades y capacidades de expansión. Clasifíquelos luego por categoría con una descripción de cada una.
 ```
+    1. Explorador de archivos de Windows (Windows):
+    Funcionalidades: Administración básica de archivos, búsqueda integrada, integración con OneDrive.
+    Capacidades de expansión: Extensiones limitadas, personalización básica.
 
+    2. Finder (macOS):    
+    Funcionalidades: Administración avanzada de archivos, búsqueda Spotlight, integración con iCloud.
+    Capacidades de expansión: Scripts de Automator, personalización avanzada.
+
+    3. Nautilus (Linux):    
+    Funcionalidades: Administración completa de archivos, integraciones con servicios en la nube, personalización avanzada.
+    Capacidades de expansión: Extensiones, plugins, temas.
+
+    4. FreeCommander (Windows):    
+    Funcionalidades: Paneles duales, administración avanzada de archivos, soporte para FTP/WebDAV.
+    Capacidades de expansión: Plugins, scripts, temas.
+
+    5. XYplorer (Windows):    
+    Funcionalidades: Paneles con pestañas, búsqueda avanzada, potentes opciones de filtrado.
+    Capacidades de expansión: Plugins, scripts, temas.
+    Plataforma: Windows.
+
+    6. Directory Opus (Windows):
+    Funcionalidades: Altamente personalizable, automatización de tareas, soporte para FTP/WebDAV.
+    Capacidades de expansión: Plugins, scripts, temas.
+
+    7. Total Commander (Windows):    
+    Funcionalidades: Paneles duales, administración avanzada de archivos, soporte para FTP/WebDAV.
+    Capacidades de expansión: Plugins, scripts, temas.
+
+    8. Commander One (macOS, Windows):    
+    Funcionalidades: Paneles duales, administración avanzada de archivos, soporte para FTP/WebDAV.
+    Capacidades de expansión: Plugins, scripts, temas.
+
+    9. DCommander (Linux):    
+    Funcionalidades: Interfaz similar a Norton Commander, administración avanzada de archivos, soporte para FTP/WebDAV.
+    Capacidades de expansión: Plugins, scripts, temas.
+
+    10. Krusader (Linux, macOS, Windows):
+    Funcionalidades: Paneles cuádruples, administración avanzada de archivos, soporte para FTP/WebDAV.
+    Capacidades de expansión: Plugins, scripts, temas.
+
+    Categorías:
+    1. Administradores de archivos básicos:
+    Explorador de archivos de Windows (Windows)
+    Finder (macOS)
+    Nautilus (Linux)
+
+    2. Administradores de archivos con paneles duales:    
+    FreeCommander (Windows)
+    Total Commander (Windows)
+    Commander One (macOS, Windows)
+    DCommander (Linux)
+    Krusader (Linux, macOS, Windows)
+
+    3. Administradores de archivos con funciones avanzadas:
+    XYplorer (Windows)
+    Directory Opus (Windows)
 ``` 
