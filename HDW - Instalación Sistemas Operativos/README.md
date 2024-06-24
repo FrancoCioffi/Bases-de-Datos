@@ -131,11 +131,12 @@ de administración tanto de memoria, disco y procesador de cada uno. Investigue 
 ``` 
 5.- Investigue gestores de arranque para elegir Sistemas Operativos múltiples en un equipo. Que trabajen en modo MBR o UEFI o ambos. Haga una comparativa.
 ```    
-    | Gestor de arranque | Compatibilidad | Caracteristicas                 | Ventajas                                    | Desventajas              |
+| Gestor de arranque | Compatibilidad | Caracteristicas                 | Ventajas                                    | Desventajas              |
 |--------------------|----------------|---------------------------------|---------------------------------------------|--------------------------|
 | GRUB               | MBR, UEFI      | Potente, personalizable         | Amplia compatibilidad, opciones avanzadas   | Curva de aprendizaje     |
 | rEFInd             | MBR, UEFI      | Interfaz grafica intuitiva      | Facil de usar, menu personalizable          | Menos opciones avanzadas |
 | EasyUEFI           | MBR, UEFI      | Interfaz grafica facil  de usar | Intefaz  intuitiva, herramientas integradas | Menos personizable       |
+| Clover EFI Bootloader | UEFI  | Optimizado para UEFI, soporte para macOS   | Soporte completo para macOS, menú personalizable  | No compatible con MBR   |
 ``` 
 6.- Haga una lista comparativa de al menos 10 administradores de archivos. Pueden ser de diferentes plataformas. Compare 
 funcionalidades y capacidades de expansión. Clasifíquelos luego por categoría con una descripción de cada una.
