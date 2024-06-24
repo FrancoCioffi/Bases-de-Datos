@@ -153,7 +153,7 @@ de administración tanto de memoria, disco y procesador de cada uno. Investigue 
     Ventajas: Interfaz intuitiva, ideal para usuarios principiantes, herramientas integradas para la gestión de discos y 
     particiones.
     Desventajas: Menos personalizable que otros gestores de arranque, funciones avanzadas pueden requerir la versión de pago.
-    | Gestor de arranque | Compatibilidad | Caracteristicas                 | Ventajas                                    |        Desventajas              |
+    | Gestor de arranque | Compatibilidad | Caracteristicas                 | Ventajas                                    |        Desventajas       |
     |--------------------|----------------|---------------------------------|---------------------------------------------|--------------------------|
     | GRUB               | MBR, UEFI      | Potente, personalizable         | Amplia compatibilidad, opciones avanzadas   | Curva de aprendizaje     |
     | rEFInd             | MBR, UEFI      | Interfaz grafica intuitiva      | Facil de usar, menu personalizable          | Menos opciones avanzadas |
