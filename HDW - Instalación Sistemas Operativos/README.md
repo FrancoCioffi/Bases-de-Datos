@@ -20,7 +20,7 @@
 últimas versiones. Investigue también las versiones corporativas tipo Windows Server Editions. Investigue las capacidades máximas 
 de administración tanto de memoria, disco y procesador de cada uno. Investigue los costos de las licencias.
 ```
-    # Windows 11:
+    Windows 11:
     Mínimos:
     Procesador: 1 GHz o superior
     RAM: 4 GB (64 bits)
@@ -37,7 +37,7 @@ de administración tanto de memoria, disco y procesador de cada uno. Investigue 
     Tarjeta gráfica: DirectX 12 o superior con controlador WDDM 2.1
     Pantalla: 1920x1080 o superior
 
-    # macOS Monterey:
+    macOS Monterey:
     Computadora Mac compatible
     macOS 10.12 o superior
     4 GB de RAM
@@ -49,7 +49,7 @@ de administración tanto de memoria, disco y procesador de cada uno. Investigue 
     Almacenamiento: 25 GB
     Tarjeta gráfica: compatible con OpenGL 3.0 o superior
 
-    # Windows Server 2022:
+    Windows Server 2022:
     Mínimos:
     Procesador: Server Xeon E5-2630 v4 a 2.0 GHz o equivalente
     RAM: 32 GB
@@ -62,7 +62,7 @@ de administración tanto de memoria, disco y procesador de cada uno. Investigue 
     Almacenamiento: 512 GB
     Tarjeta de red: 10 GbE
 
-    # Capacidades máximas:
+    Capacidades máximas:
     Windows 11:
     Memoria: 64 TB (para ediciones Workstation y Pro)
     Almacenamiento: 8 PB
@@ -83,7 +83,7 @@ de administración tanto de memoria, disco y procesador de cada uno. Investigue 
     Almacenamiento: Petabytes (depende de la configuración)
     Procesadores: 2 sockets físicos con hasta 80 núcleos físicos y 160 subprocesos lógicos por socket
 
-    #Costos de licencias:
+    #ostos de licencias:
     Windows 11:
     Home: $139 USD
     Pro: $199 USD
