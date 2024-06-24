@@ -153,11 +153,11 @@ de administración tanto de memoria, disco y procesador de cada uno. Investigue 
     Ventajas: Interfaz intuitiva, ideal para usuarios principiantes, herramientas integradas para la gestión de discos y 
     particiones.
     Desventajas: Menos personalizable que otros gestores de arranque, funciones avanzadas pueden requerir la versión de pago.
-| Gestor de arranque | Compatibilidad | Caracteristicas                 | Ventajas                                    | Desventajas              |
-|--------------------|----------------|---------------------------------|---------------------------------------------|--------------------------|
-| GRUB               | MBR, UEFI      | Potente, personalizable         | Amplia compatibilidad, opciones avanzadas   | Curva de aprendizaje     |
-| rEFInd             | MBR, UEFI      | Interfaz grafica intuitiva      | Facil de usar, menu personalizable          | Menos opciones avanzadas |
-| EasyUEFI           | MBR, UEFI      | Interfaz grafica facil  de usar | Intefaz  intuitiva, herramientas integradas | Menos personizable       |
+    | Gestor de arranque | Compatibilidad | Caracteristicas                 | Ventajas                                    |        Desventajas              |
+    |--------------------|----------------|---------------------------------|---------------------------------------------|--------------------------|
+    | GRUB               | MBR, UEFI      | Potente, personalizable         | Amplia compatibilidad, opciones avanzadas   | Curva de aprendizaje     |
+    | rEFInd             | MBR, UEFI      | Interfaz grafica intuitiva      | Facil de usar, menu personalizable          | Menos opciones avanzadas |
+    | EasyUEFI           | MBR, UEFI      | Interfaz grafica facil  de usar | Intefaz  intuitiva, herramientas integradas | Menos personizable       |
 ``` 
 6.- Haga una lista comparativa de al menos 10 administradores de archivos. Pueden ser de diferentes plataformas. Compare 
 funcionalidades y capacidades de expansión. Clasifíquelos luego por categoría con una descripción de cada una.
