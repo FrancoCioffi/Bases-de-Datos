@@ -101,10 +101,44 @@ de administración tanto de memoria, disco y procesador de cada uno. Investigue 
     
 ``` 
 3.- Investigue las funciones del módulo TPM.
-
+```     
+    El Módulo de Plataforma Segura (TPM) es un chip integrado en la placa base de algunos ordenadores que proporciona un 
+    conjunto de funciones de seguridad para proteger los datos y el sistema.
+    Las principales funciones del TPM son:
+    Almacenamiento seguro de claves:
+    El TPM puede almacenar claves criptográficas de forma segura, como contraseñas, certificados y claves de cifrado. Estas            claves se almacenan en un enclave seguro dentro del TPM, lo que las protege del acceso no autorizado, incluso si el sistema        operativo está infectado con malware.
+    Arranque seguro:
+    El TPM puede ayudar a garantizar que el sistema operativo se inicie de forma segura y que no se manipule antes de cargarse.        Esto ayuda a proteger el sistema de ataques de firmware y rootkits.
+    Cifrado de disco completo:
+    El TPM puede utilizarse para cifrar el disco duro de un ordenador, lo que protege los datos en caso de robo o pérdida del     
+    ordenador.
+    Autenticación segura:
+    El TPM puede utilizarse para autenticar a los usuarios y los dispositivos, lo que ayuda a proteger el acceso a los datos y     
+    recursos sensibles.
+    Protección contra malware:
+    El TPM puede utilizarse para proteger el sistema contra malware, ya que puede detectar y bloquear intentos de manipular            el sistema operativo o el firmware.
+``` 
 4.- Investigue los utilitarios que permiten cambiar el tamaño de las particiones. Por lo menos nombre a tres.
+``` 
+    AOMEI Partition Assistant:
+    Es una herramienta gratuita y de pago con una interfaz fácil de usar y funciones avanzadas como la migración de sistemas           operativos, la recuperación de particiones y la creación de particiones virtuales. Soporta una amplia gama de sistemas de          archivos y dispositivos de almacenamiento.
+    
+    EaseUS Partition Master:
+    Otra opción popular con versiones gratuitas y de pago. Ofrece funciones similares a AOMEI Partition Assistant, incluyendo la       redimensión, la creación, la eliminación y la conversión de particiones. También es compatible con una amplia gama de sistemas     de archivos y dispositivos de almacenamiento.
 
-5.- Investigue gestores de arranque para elegir Sistemas Operativos múltiples en un equipo. Que trabajen en modo MBR o UEFI o ambos. # Haga una comparativa.
-
+    GParted:
+    Un potente editor de particiones de código abierto y gratuito para sistemas operativos basados en Linux. Ofrece funciones          avanzadas como la creación y eliminación de particiones, el formateo, la copia y el pegado de particiones, y la comprobación y     reparación de errores de disco. Sin embargo, su interfaz puede ser menos intuitiva para usuarios principiantes.
+``` 
+5.- Investigue gestores de arranque para elegir Sistemas Operativos múltiples en un equipo. Que trabajen en modo MBR o UEFI o ambos. Haga una comparativa.
+```    
+    | Gestor de arranque | Compatibilidad | Caracteristicas                 | Ventajas                                    | Desventajas              |
+|--------------------|----------------|---------------------------------|---------------------------------------------|--------------------------|
+| GRUB               | MBR, UEFI      | Potente, personalizable         | Amplia compatibilidad, opciones avanzadas   | Curva de aprendizaje     |
+| rEFInd             | MBR, UEFI      | Interfaz grafica intuitiva      | Facil de usar, menu personalizable          | Menos opciones avanzadas |
+| EasyUEFI           | MBR, UEFI      | Interfaz grafica facil  de usar | Intefaz  intuitiva, herramientas integradas | Menos personizable       |
+``` 
 6.- Haga una lista comparativa de al menos 10 administradores de archivos. Pueden ser de diferentes plataformas. Compare 
 funcionalidades y capacidades de expansión. Clasifíquelos luego por categoría con una descripción de cada una.
+```
+
+``` 
