@@ -43,7 +43,7 @@ de administración tanto de memoria, disco y procesador de cada uno. Investigue 
     4 GB de RAM
     1 GB de espacio disponible en disco
 
-    # Ubuntu 22.04 LTS:
+    Ubuntu 22.04 LTS:
     Procesador: 2 GHz o superior de 64 bits
     RAM: 4 GB
     Almacenamiento: 25 GB
@@ -83,7 +83,7 @@ de administración tanto de memoria, disco y procesador de cada uno. Investigue 
     Almacenamiento: Petabytes (depende de la configuración)
     Procesadores: 2 sockets físicos con hasta 80 núcleos físicos y 160 subprocesos lógicos por socket
 
-    #ostos de licencias:
+    Costos de licencias:
     Windows 11:
     Home: $139 USD
     Pro: $199 USD
@@ -115,8 +115,6 @@ de administración tanto de memoria, disco y procesador de cada uno. Investigue 
     Autenticación segura:
     El TPM puede utilizarse para autenticar a los usuarios y los dispositivos, lo que ayuda a proteger el acceso a los datos y     
     recursos sensibles.
-    Protección contra malware:
-    El TPM puede utilizarse para proteger el sistema contra malware, ya que puede detectar y bloquear intentos de manipular            el sistema operativo o el firmware.
 ``` 
 4.- Investigue los utilitarios que permiten cambiar el tamaño de las particiones. Por lo menos nombre a tres.
 ``` 
